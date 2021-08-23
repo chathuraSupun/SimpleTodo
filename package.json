@@ -13,7 +13,6 @@
         "test": "jest"
     },
     "dependencies": {
-        "@babel/preset-typescript": "^7.12.17",
         "expo": "~42.0.1",
         "expo-status-bar": "~1.0.4",
         "react": "16.13.1",
@@ -22,6 +21,7 @@
     },
     "devDependencies": {
         "@babel/core": "^7.9.0",
+        "@babel/preset-typescript": "^7.12.17",
         "@storybook/addon-actions": "^5.3.21",
         "@storybook/addon-knobs": "^5.3.21",
         "@storybook/addon-links": "^5.3.21",
